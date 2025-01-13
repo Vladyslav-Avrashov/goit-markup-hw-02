@@ -44,10 +44,6 @@ footer {
     color: #ffffff;
 }
 
-.logo .studio {
-    color: #ffffff;
-}
-
 .first {
     background-color: #2E2F42;
 }
@@ -65,7 +61,7 @@ footer {
     background-color: #404bbf
 }
 
-.contact {
+.connection {
     font-style: normal;
 }
 
@@ -110,9 +106,10 @@ footer {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
-.third .team .photo {
+.third .team .info {
     background-color: #ffffff;
 }
 
@@ -136,6 +133,7 @@ footer {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .product {
@@ -159,4 +157,8 @@ footer {
     line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
+}
+
+.under .logo .studio {
+    color: #f4f4fd;
 }
