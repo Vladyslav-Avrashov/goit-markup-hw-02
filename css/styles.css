@@ -1,0 +1,49 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+}
+
+a {
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+ul {
+    list-style-type: none;
+    color: #434455;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.logo .web {
+    color: #4D5AE5;
+}
+
+.navigate {
+    font-weight: 500;
+}
+
+footer {
+    background-color: #434455;
+    color: #FFFFFF;
+}
+
+.logo .studio {
+    color: #FFFFFF;
+}
+
+.title {
+    background-color: #2E2F42;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.title .order {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+
+}
