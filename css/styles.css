@@ -48,7 +48,7 @@ footer {
     background-color: #2E2F42;
 }
 
-.first .order {
+.first .button {
     background-color: #4d5ae5;
     color: #ffffff;
     font-weight: 500;
@@ -57,21 +57,22 @@ footer {
     cursor: pointer;
 }
 
-.first .order:hover, .first .order:focus {
+.first .button:hover, .first .button:focus {
     background-color: #404bbf
 }
 
-.connection {
+.contact {
     font-style: normal;
 }
 
-.mail {
+.contact .connection {
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.mail:hover, .mail:focus {
+.contact .connection:hover, .contact .connection:focus {
     color: #404bbf;
 }
 
@@ -109,11 +110,11 @@ footer {
     color: #2e2f42;
 }
 
-.third .team .info {
+.third .info {
     background-color: #ffffff;
 }
 
-.third .team .person {
+.third .person {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -121,7 +122,7 @@ footer {
     color: #2e2f42;
 }
 
-.third .team .position {
+.third .about {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
